@@ -1,0 +1,28 @@
+{
+	"name": "industrial-project-js-api",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TheSSX/IndustrialProjectJSAPI"
+	},
+	"scripts": {
+		"start": "node bin/web.js",
+		"test": "mocha --recursive --full-trace --inspect"
+	},
+	"dependencies": {
+		"axios": "^0.19.0",
+		"bcrypt": "^3.0.6",
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"express-winston": "^3.3.0",
+		"mocha": "^6.2.0",
+		"mysql": "^2.17.1",
+		"superagent": "^5.1.0",
+		"unirest": "^0.6.0",
+		"winston": "^3.2.1"
+	},
+	"devDependencies": {
+		"request": "^2.88.0",
+		"supertest": "^4.0.2"
+	}
+}

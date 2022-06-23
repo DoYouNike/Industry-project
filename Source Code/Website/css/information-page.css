@@ -1,0 +1,36 @@
+p{
+font-size: 1.8rem;
+}
+.card-product .info-wrap {
+    overflow: hidden;
+    padding: 15px;
+    border-top: 1px solid #eee;
+}
+.card-product .maininfo-wrap {
+    overflow: hidden;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    text-align: left;
+}
+.card-product .bottom-wrap {
+    padding: 15px;
+    border-top: 1px solid #eee;
+}
+
+.label-rating { margin-right:10px;
+    color: #333;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.card-product .price-old {
+    color: #999;
+}
+
+.card-product .title{
+
+    color: #0000FF;
+}
+.card-product .result{
+font-size: 1.5rem;
+}

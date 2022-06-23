@@ -1,0 +1,633 @@
+001 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+002 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W/O MCC: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+003 - ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W MAJ O.R.: expression, font, boldness, front, nerve, face, facial expression, aspect, case, fount, typeface, cheek, face up, side, brass, human face, look, confront, grimace, present
+004 - TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.: expression, font, boldness, front, nerve, face, facial expression, aspect, case, fount, typeface, cheek, face up, side, brass, human face, look, confront, grimace, present
+005 - LIVER TRANSPLANT W MCC OR INTESTINIAL TRANSPLANT: liver, liver-colored
+006 - LIVER TRANSPLANT W/O MCC: liver, liver-colored
+007 - LUNG TRANSPLANT: lung
+008 - SIMULTANEOUS PANCREAS/KIDNEY TRANSPLANT: pancreas
+011 - TRACHEOSTOMY FOR FACE,MOUTH & NECK DIAGNOSES W MCC: tracheostomy, tracheotomy
+012 - TRACHEOSTOMY FOR FACE,MOUTH & NECK DIAGNOSES W CC: tracheostomy, tracheotomy
+013 - TRACHEOSTOMY FOR FACE,MOUTH & NECK DIAGNOSES W/O CC/MCC: tracheostomy, tracheotomy
+014 - ALLOGENEIC BONE MARROW TRANSPLANT: ivory, pearl, debone, get up, mug up, drum, swot, grind away, off-white, osseous tissue, bone up, os, bone, swot up, cram
+016 - AUTOLOGOUS BONE MARROW TRANSPLANT: ivory, pearl, debone, get up, mug up, drum, swot, grind away, off-white, osseous tissue, bone up, os, bone, swot up, cram
+017 - AUTOLOGOUS BONE MARROW TRANSPLANT W/O CC/MCC: ivory, pearl, debone, get up, mug up, drum, swot, grind away, off-white, osseous tissue, bone up, os, bone, swot up, cram
+020 - INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+023 - CRANIOTOMY W MAJOR DEVICE IMPLANT OR ACUTE CNS PDX W MCC OR CHEMOTHE: craniotomy
+024 - CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC: braincase, cranium, brainpan
+025 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC: craniotomy
+026 - CRANIOTOMY & ENDOVASCUALR INTRACRANIAL PROCEDURES W CC: craniotomy
+027 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC: craniotomy
+028 - SPINAL PROCEDURES W MCC: spinal, spinal anesthesia, spinal anaesthesia
+029 - SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS: spinal, spinal anesthesia, spinal anaesthesia
+030 - SPINAL PROCEDURES W/O CC/MCC: spinal, spinal anesthesia, spinal anaesthesia
+031 - VENTRICULAR SHUNT PROCEDURES W MCC: ventricular
+032 - VENTRICULAR SHUNT PROCEDURES W CC: ventricular
+033 - VENTRICULAR SHUNT PROCEDURES W/O CC/MCC: ventricular
+034 -  CAROTID ARTERY STENT PROCEDURE W MCC: artery, arteria, arterial blood vessel
+035 - CAROTID ARTERY STENT PROCEDURE W CC: artery, arteria, arterial blood vessel
+036 - CAROTID ARTERY STENT PROCEDURE W/O CC/MCC: artery, arteria, arterial blood vessel
+037 - EXTRACRANIAL PROCEDURES W MCC: braincase, cranium, brainpan
+038 - EXTRACRANIAL PROCEDURES W CC: braincase, cranium, brainpan
+039 - EXTRACRANIAL PROCEDURES W/O CC/MCC: braincase, cranium, brainpan
+040 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC: boldness, steel, spunk, heart, cheek, mettle, nerve, face, brass, nervus
+041 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM: boldness, steel, spunk, heart, cheek, mettle, nerve, face, brass, nervus
+042 - PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC: boldness, steel, spunk, heart, cheek, mettle, nerve, face, brass, nervus
+052 - SPINAL DISORDERS & INJURIES W CC/MCC: spinal, spinal anesthesia, spinal anaesthesia
+053 - SPINAL DISORDERS & INJURIES W/O CC/MCC: spinal, spinal anesthesia, spinal anaesthesia
+054 - NERVOUS SYSTEM NEOPLASMS W MCC: tumour, neoplasm, tumor
+055 - NERVOUS SYSTEM NEOPLASMS W/O MCC: tumour, neoplasm, tumor
+056 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC: degenerative
+057 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC: degenerative
+058 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC: induration, sclerosis
+059 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC: induration, sclerosis
+060 - MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC: induration, sclerosis
+064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFRACTION W MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+061 - ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W MCC: accident, stroke, apoplexy, virgule, CVA, throw, cam stroke, solidus, stroking, cerebrovascular accident, chance event, shot, slash, diagonal, separatrix, fortuity
+062 - ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W CC: accident, stroke, apoplexy, virgule, CVA, throw, cam stroke, solidus, stroking, cerebrovascular accident, chance event, shot, slash, diagonal, separatrix, fortuity
+063 - ACUTE ISCHEMIC STROKE W USE OF THROMBOLYTIC AGENT W/O CC/MCC: accident, stroke, apoplexy, virgule, CVA, throw, cam stroke, solidus, stroking, cerebrovascular accident, chance event, shot, slash, diagonal, separatrix, fortuity
+064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFRACTION W CC (OR TPA IN 24 HRS): shed blood, hemorrhage, bleed, haemorrhage, bleeding
+066 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFRACTION W/O CC/MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+068 - NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC: stoppage, stop, block, occluded front, occlusion, closure, blockage
+069 - TRANSIENT ISCHEMIA: ephemeral, transient, passing, short-lived, fugacious, transeunt, transitory
+070 - NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC: cerebrovascular
+071 - NONSPECIFIC CEREBROVASCULAR DISORDERS W CC: cerebrovascular
+072 - NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC: cerebrovascular
+073 - CRANIAL & PERIPHERRAL NERVE DISORDERS W MCC: cranial
+074 - CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC: cranial
+077 - HYPERTENSIVE ENCEPHALOPATHY W MCC: encephalopathy, brain disease, brain disorder
+078 - HYPERTENSIVE ENCEPHALOPATHY W CC: encephalopathy, brain disease, brain disorder
+081 - NONTRAUMATIC STUPOR & COMA W/O MCC: coma, comatoseness
+082 - TRAUMATIC STUPOR & COMA, COMA >1 HR W MCC: traumatic
+083 - TRAUMATIC STUPOR & COMA, COMA >1 HR W CC: traumatic
+084 - TRAUMATIC STUPOR & COMA, COMA >1 HR W/O CC/MCC: traumatic
+085 - TRAUMATIC STUPOR & COMA, COMA <1 HR W MCC: traumatic
+086 - TRAUMATIC STUPOR & COMA, COMA <1 HR W CC: traumatic
+087 - TRAUMATIC STUPOR & COMA, COMA <1 HR W/O CC/MCC: traumatic
+088 - CONCUSSION W MCC: concussion
+089 - CONCUSSION W CC: concussion
+090 - CONCUSSION W/O CC/MCC: concussion
+091 - OTHER DISORDERS OF NERVOUS SYSTEM W MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+092 - OTHER DISORDERS OF NERVOUS SYSTEM W CC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+093 - OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+094 - BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC: bacterial
+097 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC: infect, taint
+098 - NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC: infect, taint
+100 - SEIZURES W MCC: ictus, raptus, gaining control, seizure, capture
+101 - SEIZURES W/O MCC: ictus, raptus, gaining control, seizure, capture
+102 - HEADACHES W MCC: cephalalgia, headache, concern, head ache, worry, vexation
+103 - HEADACHES W/O MCC: cephalalgia, headache, concern, head ache, worry, vexation
+113 - ORBITAL PROCEDURES W CC/MCC: orbital
+114 - ORBITAL PROCEDURES W/O CC/MCC: orbital
+115 - EXTRAOCULAR PROCEDURES EXCEPT ORBIT: oculus, eyeball, center, heart, optic, centre, middle, eye
+116 - INTRAOCULAR PROCEDURES W CC/MCC: oculus, eyeball, center, heart, optic, centre, middle, eye
+117 - INTRAOCULAR PROCEDURES W/O CC/MCC: oculus, eyeball, center, heart, optic, centre, middle, eye
+123 - NEUROLOGICAL EYE DISORDERS: oculus, eyeball, center, heart, optic, centre, middle, eye
+125 - OTHER DISORDERS OF THE EYE W/O MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+129 - MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE: maneuver, straits, steer, brain, drumhead, chief, headspring, read/write head, oral sex, question, head, psyche, caput, pass, guide, header, head word, nous, forefront, channelize, headway, principal, top dog, headland, head teacher, lead, promontory, head up, capitulum, manoeuver, direct, point, heading, school principal, mind, foreland, channelise, fountainhead, manoeuvre
+130 - MAJOR HEAD & NECK PROCEDURES W/O CC/MCC: maneuver, straits, steer, brain, drumhead, chief, headspring, read/write head, oral sex, question, head, psyche, caput, pass, guide, header, head word, nous, forefront, channelize, headway, principal, top dog, headland, head teacher, lead, promontory, head up, capitulum, manoeuver, direct, point, heading, school principal, mind, foreland, channelise, fountainhead, manoeuvre
+131 - CRANIAL/FACIAL PROCEDURES W CC/MCC: braincase, cranium, brainpan
+132 - CRANIAL/FACIAL PROCEDURES W/O CC/MCC: braincase, cranium, brainpan
+133 - OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W CC/MCC: spike, capitulum, auricle, pinna, ear
+134 - OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC: spike, capitulum, auricle, pinna, ear
+137 - MOUTH PROCEDURES W CC/MCC: sass, oral fissure, verbalize, rima oris, talk, mouthpiece, backtalk, oral cavity, back talk, speak, verbalise, lip, sassing, mouth, utter
+138 - MOUTH PROCEDURES W/O CC/MCC: sass, oral fissure, verbalize, rima oris, talk, mouthpiece, backtalk, oral cavity, back talk, speak, verbalise, lip, sassing, mouth, utter
+139 - SALIVARY GLAND PROCEDURES: salivary
+146 - EAR, NOSE, MOUTH & THROAT MALIGNANCY W MCC: spike, capitulum, auricle, pinna, ear
+147 - EAR, NOSE, MOUTH & THROAT MALIGNANCY W CC: spike, capitulum, auricle, pinna, ear
+149 - DYSEQUILIBRIUM: motor ataxia, dyssynergia, ataxia, ataxy
+150 - EPISTAXIS W MCC: nosebleed, epistaxis
+151 - EPISTAXIS W/O MCC: nosebleed, epistaxis
+152 - OTITIS MEDIA & URI W MCC: otitis
+153 - OTITIS MEDIA & URI W/O MCC: otitis
+154 - OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W MCC: spike, capitulum, auricle, pinna, ear
+155 - OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W CC: spike, capitulum, auricle, pinna, ear
+156 - OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W/O CC/MCC: spike, capitulum, auricle, pinna, ear
+157 - DENTAL & ORAL DISEASES W MCC: alveolar, dental, dental consonant, alveolar consonant
+158 - DENTAL & ORAL DISEASES W CC: alveolar, dental, dental consonant, alveolar consonant
+163 - MAJOR CHEST PROCEDURES W MCC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+164 - MAJOR CHEST PROCEDURES W CC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+165 - MAJOR CHEST PROCEDURES W/O CC/MCC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+166 - OTHER RESP SYSTEM O.R. PROCEDURES W MCC: respiratory
+167 - OTHER RESP SYSTEM O.R. PROCEDURES W CC: respiratory
+168 - OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC: respiratory
+175 - PULMONARY EMBOLISM W MCC: pneumonic, pulmonic, pulmonary
+176 - PULMONARY EMBOLISM W/O MCC: pneumonic, pulmonic, pulmonary
+177 - RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC: respiratory
+178 - RESPIRATORY INFECTIONS & INFLAMMATIONS W CC: respiratory
+179 - RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC: respiratory
+180 - RESPIRATORY NEOPLASMS W MCC: respiratory
+181 - RESPIRATORY NEOPLASMS W CC: respiratory
+183 - MAJOR CHEST TRAUMA W MCC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+184 - MAJOR CHEST TRAUMA W CC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+185 - MAJOR CHEST TRAUMA W/O CC/MCC: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+186 - PLEURAL EFFUSION W MCC: pleural
+187 - PLEURAL EFFUSION W CC: pleural
+188 - PLEURAL EFFUSION W/O CC/MCC: pleural
+189 - PULMONARY EDEMA & RESIPRATORY FAILURE: pneumonic, pulmonic, pulmonary
+190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC: pneumonic, pulmonic, pulmonary
+191 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC: pneumonic, pulmonic, pulmonary
+192 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC: pneumonic, pulmonic, pulmonary
+193 - SIMPLE PNEUMONIA & PLEURISY W MCC: pneumonia
+194 - SIMPLE PNEUMONIA & PLEURISY W CC: pneumonia
+195 - SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC: pneumonia
+196 - INTERSTITIAL LUNG DISEASE W MCC: interstitial
+197 - INTERSTITIAL LUNG DISEASE W CC: interstitial
+198 - INTERSTITIAL LUNG DISEASE W/O CC/MCC: interstitial
+199 - PNEUMOTHORAX W MCC: pneumothorax
+200 - PNEUMOTHORAX W CC: pneumothorax
+201 - PNEUMOTHORAX W/O CC/MCC: pneumothorax
+202 - BRONCHITIS & ASTHMA W CC/MCC: bronchial asthma, asthma attack, asthma
+203 - BRONCHITIS & ASTHMA W/O CC/MCC: bronchial asthma, asthma attack, asthma
+204 - RESPIRATORY SIGNS & SYMPTOMS: respiratory
+205 - OTHER RESPIRATORY SYSTEM DIAGNOSIS W MCC: respiratory
+206 - OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC: respiratory
+207 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT 96+ HOURS: respiratory
+208 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS: respiratory
+215 - OTHER HEART ASSIST SYSTEM IMPLANT: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+216 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC: valve
+217 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC: valve
+218 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W/O CC/MCC: valve
+219 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC: valve
+220 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC: valve
+221 - CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC: valve
+222 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC: defibrillator
+223 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W/O MCC: defibrillator
+224 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC: defibrillator
+225 - CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC: defibrillator
+226 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC: defibrillator
+227 - CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC: defibrillator
+228 - OTHER CARDIOTHORACIC PROCEDURES W MCC: pectoral, thoracic
+229 - OTHER CARDIOTHORACIC PROCEDURES W CC: pectoral, thoracic
+230 - OTHER CARDIOTHORACIC PROCEDURES W/O CC/MCC: pectoral, thoracic
+231 - CORONARY BYPASS W PTCA W MCC: coronary, coronary thrombosis
+232 - CORONARY BYPASS W PTCA W/O MCC: coronary, coronary thrombosis
+233 - CORONARY BYPASS W CARDIAC CATH W MCC: coronary, coronary thrombosis
+234 - CORONARY BYPASS W CARDIAC CATH W/O MCC: coronary, coronary thrombosis
+235 - CORONARY BYPASS W/O CARDIAC CATH W MCC: coronary, coronary thrombosis
+236 - CORONARY BYPASS W/O CARDIAC CATH W/O MCC: coronary, coronary thrombosis
+237 - MAJOR CARDIOVASC PROCEDURES W MCC: cardiovascular
+238 - MAJOR CARDIOVASC PROCEDURES W/O MCC: cardiovascular
+239 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC: amputation
+240 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC: amputation
+241 - AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W/O CC/MCC: amputation
+242 - PERMANENT CARDIAC PACEMAKER IMPLANT W MCC: lasting, perm, permanent wave, permanent
+243 - PERMANENT CARDIAC PACEMAKER IMPLANT W CC: lasting, perm, permanent wave, permanent
+244 - PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC: lasting, perm, permanent wave, permanent
+245 - AICD GENERATOR PROCEDURES: defibrillator
+246 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+VESSELS/STENTS: transcutaneous, transdermal, percutaneous, transdermic
+247 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC: transcutaneous, transdermal, percutaneous, transdermic
+248 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W MCC OR 4+ VES/STENTS: transcutaneous, transdermal, percutaneous, transdermic
+249 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC: transcutaneous, transdermal, percutaneous, transdermic
+250 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC: transcutaneous, transdermal, percutaneous, transdermic
+251 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC: transcutaneous, transdermal, percutaneous, transdermic
+252 - OTHER VASCULAR PROCEDURES W MCC: vena, mineral vein, vein, venous blood vessel, nervure
+253 - OTHER VASCULAR PROCEDURES W CC: vena, mineral vein, vein, venous blood vessel, nervure
+254 - OTHER VASCULAR PROCESURES W/O CC/MCC: vena, mineral vein, vein, venous blood vessel, nervure
+255 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W MCC: limb, tree branch, branch, arm
+256 - UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC: limb, tree branch, branch, arm
+259 - CARDIAC PACEMAKER DEVICE REPLACEMENT W/O MCC: pacesetter, sinoatrial node, cardiac pacemaker, pacer, artificial pacemaker, SA node, pacemaker
+260 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC: pacesetter, sinoatrial node, cardiac pacemaker, pacer, artificial pacemaker, SA node, pacemaker
+261 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC: pacesetter, sinoatrial node, cardiac pacemaker, pacer, artificial pacemaker, SA node, pacemaker
+262 - CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC: pacesetter, sinoatrial node, cardiac pacemaker, pacer, artificial pacemaker, SA node, pacemaker
+264 - OTHER CIRCULATORY SYSTEM O.R. PROCEDURES: circulatory, circulative
+265 - AICD LEAD PROCEDURES: defibrillator
+266 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC: vena, mineral vein, vein, venous blood vessel, nervure
+267 - ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC: vena, mineral vein, vein, venous blood vessel, nervure
+268 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC: aortal, aortic
+269 - AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC: aortal, aortic
+270 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC: cardiovascular
+271 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC: cardiovascular
+272 - OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC: cardiovascular
+273 - PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC: transcutaneous, transdermal, percutaneous, transdermic
+274 - PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC: transcutaneous, transdermal, percutaneous, transdermic
+280 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W MCC: myocardial
+281 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W CC: myocardial
+282 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W/O CC/MCC: myocardial
+283 - ACUTE MYOCARDIAL INFARCTION, EXPIRED W MCC: myocardial
+286 - CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W CMC: circulatory, circulative
+287 - CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W/O MCC: circulatory, circulative
+288 - ACUTE & SUBACUTE ENDOCARDITIS W MCC: endocarditis
+291 - HEART FAILURE & SHOCK W MCC: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+292 - HEART FAILURE & SHOCK W CC: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+293 - HEART FAILURE & SHOCK W/O CC/MCC: marrow, centre, kernel, core, nerve, affectionateness, warmness, pump, ticker, mettle, spirit, middle, gist, sum, bosom, philia, center, nub, warmheartedness, inwardness, meat, fondness, substance, nitty-gritty, tenderness, spunk, heart, pith, affection, heart and soul, eye, essence
+294 - DEEP VEIN THROMBOPHLEBITIS W CC/MCC: vena, mineral vein, vein, venous blood vessel, nervure
+296 - CARDIAC ARREST, UNEXPLAINED W MCC: cop, apprehend, collar, catch, taking into custody, pick up, hold, nail, hitch, arrest, nab, stay, contain, check, turn back, get, stoppage, stop, apprehension, pinch, hold back, halt
+299 - PERIPHERAL VASCULAR DISORDERS W MCC: peripheral device, peripheral, computer peripheral
+300 - PERIPHERAL VASCULAR DISORDERS W CC: peripheral device, peripheral, computer peripheral
+301 - PERIPHERAL VASCULAR DISORDERS W/O CC/MCC: peripheral device, peripheral, computer peripheral
+302 - ATHEROSCLEROSIS W MCC: atherosclerosis, coronary artery disease
+303 - ATHEROSCLEROSIS W/O MCC: atherosclerosis, coronary artery disease
+304 - HYPERTENSION W MCC: hypertension, high blood pressure
+305 - HYPERTENSION W/O MCC: hypertension, high blood pressure
+306 - CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC: congenital, inborn, innate
+307 - CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC: congenital, inborn, innate
+308 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC: cardiac arrhythmia, arrhythmia
+309 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC: cardiac arrhythmia, arrhythmia
+310 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC: cardiac arrhythmia, arrhythmia
+311 - ANGINA PECTORIS: angina, angina pectoris
+312 - SYNCOPE & COLLAPSE: syncope, deliquium, syncopation, swoon, faint
+313 - CHEST PAIN: chest, pectus, dresser, breast, bureau, chest of drawers, thorax
+314 - OTHER CIRCULATORY SYSTEM DIAGNOSIS W MCC: circulatory, circulative
+315 - OTHER CIRCULATORY SYSTEM DIAGNOSIS W CC: circulatory, circulative
+316 - OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC: circulatory, circulative
+326 - STOMACH, ESOPHAGEAL & DUODENAL PROC W MCC: suffer, support, brook, stick out, endure, abide, belly, digest, tolerate, bear, stand, tummy, put up, venter, stomach, breadbasket, abdomen, tum
+327 - STOMACH, ESOPHAGEAL & DUODENAL PROC W CC: suffer, support, brook, stick out, endure, abide, belly, digest, tolerate, bear, stand, tummy, put up, venter, stomach, breadbasket, abdomen, tum
+328 - STOMACH, ESOPHAGEAL & DUODENAL PROC W/O CC/MCC: suffer, support, brook, stick out, endure, abide, belly, digest, tolerate, bear, stand, tummy, put up, venter, stomach, breadbasket, abdomen, tum
+329 - MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC: gut, intestine, bowel
+330 - MAJOR SMALL & LARGE BOWEL PROCEDURES W CC: gut, intestine, bowel
+331 - MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC: gut, intestine, bowel
+332 - RECTAL RESECTION W MCC: rectal
+333 - RECTAL RESECTION W CC : rectal
+334 - RECTAL RESECTION W/O CC/MCC: rectal
+335 - PERITONEAL ADHESIOLYSIS W MCC: peritoneal
+336 - PERITONEAL ADHESIOLYSIS W CC: peritoneal
+337 - PERITONEAL ADHESIOLYSIS W/O CC/MCC: peritoneal
+339 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC: appendicectomy, appendectomy
+340 - APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC: appendicectomy, appendectomy
+343 - APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC: appendicectomy, appendectomy
+344 - MINOR SMALL & LARGE BOWEL PROCEDURES W MCC: gut, intestine, bowel
+345 - MINOR SMALL & LARGE BOWEL PROCEDURES W CC: gut, intestine, bowel
+346 - MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC: gut, intestine, bowel
+347 - ANAL & STOMAL PROCEDURES W MCC: anal retentive, anal
+348 - ANAL & STOMAL PROCEDURES W CC: anal retentive, anal
+349 - ANAL & STOMAL PROCEDURES W/O CC/MCC: anal retentive, anal
+351 - INGUINAL & FEMORAL HERNIA PROCEDURES W CC: herniation, hernia
+352 - INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC: herniation, hernia
+353 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC: herniation, hernia
+354 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC: herniation, hernia
+355 - HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC: herniation, hernia
+356 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC: digestive
+357 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC: digestive
+358 - OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC: digestive
+368 - MAJOR ESOPHAGEAL DISORDERS W MCC: esophageal
+369 - MAJOR ESOPHAGEAL DISORDERS W CC: esophageal
+371 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC: GI, gastrointestinal
+372 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC: GI, gastrointestinal
+373 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC: GI, gastrointestinal
+374 - DIGESTIVE MALIGNANCY W MCC: digestive
+375 - DIGESTIVE MALIGNANCY W CC: digestive
+376 - DIGESTIVE MALIGNANCY W/O CC/MCC: digestive
+377 - G.I. HEMORRHAGE W MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+378 - G.I. HEMORRHAGE W CC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+379 - G.I. HEMORRHAGE W/O CC/MCC: shed blood, hemorrhage, bleed, haemorrhage, bleeding
+380 - COMPLICATED PEPTIC ULCER W MCC: ulcer, ulceration
+381 - COMPLICATED PEPTIC ULCER W CC: ulcer, ulceration
+383 - UNCOMPLICATED PEPTIC ULCER W MCC: ulcer, ulceration
+384 - UNCOMPLICATED PEPTIC ULCER W/O MCC: ulcer, ulceration
+385 - INFLAMMATORY BOWEL DISEASE W MCC: instigative, rabble-rousing, incendiary, inflammatory, seditious, incitive
+386 - INFLAMMATORY BOWEL DISEASE W CC: instigative, rabble-rousing, incendiary, inflammatory, seditious, incitive
+387 - INFLAMMATORY BOWEL DISEASE W/O CC/MCC: instigative, rabble-rousing, incendiary, inflammatory, seditious, incitive
+388 - G.I. OBSTRUCTION W MCC: obstructer, obstructor, impedimenta, obstruction, impediment, obstacle, blockage
+389 - G.I. OBSTRUCTION W CC: obstructer, obstructor, impedimenta, obstruction, impediment, obstacle, blockage
+390 - G.I. OBSTRUCTION W/O CC/MCC: obstructer, obstructor, impedimenta, obstruction, impediment, obstacle, blockage
+391 - ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W MCC: oesophagitis, esophagitis
+392 - ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC: oesophagitis, esophagitis
+393 - OTHER DIGESTIVE SYSTEM DIAGNOSIS W MCC: digestive
+394 - OTHER DIGESTIVE SYSTEM DIAGNOSIS W CC: digestive
+395 - OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC: digestive
+405 - PANCREAS, LIVER & SHUNT PROCEDURES W MCC: pancreas
+406 - PANCREAS, LIVER & SHUNT PROCEDURES W CC: pancreas
+407 - PANCREAS, LIVER & SHUNT PROCEDURES W/O CC/MCC: pancreas
+408 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W MCC: bilious, biliary
+409 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC: bilious, biliary
+410 - BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC: bilious, biliary
+414 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC: cholecystectomy
+415 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC: cholecystectomy
+416 - CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC: cholecystectomy
+417 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC: cholecystectomy
+418 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC: cholecystectomy
+419 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC: cholecystectomy
+420 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC: liver, liver-colored
+421 - HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC: liver, liver-colored
+423 - OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC: liver, liver-colored
+432 - CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC: cirrhosis of the liver, cirrhosis
+433 - CIRRHOSIS & ALCOHOLIC HEPATITIS W CC: cirrhosis of the liver, cirrhosis
+435 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC: malignance, malignity, malignancy
+436 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC: malignance, malignity, malignancy
+437 - MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC: malignance, malignity, malignancy
+438 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+439 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+440 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+441 - DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+442 - DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W CC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+443 - DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W/O CC/MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+444 - DISORDERS OF THE BILIARY TRACT W MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+445 - DISORDERS OF THE BILIARY TRACT W CC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+446 - DISORDERS OF THE BILIARY TRACT W/O CC/MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+453 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W MCC: meld, combine, unite, flux, coalesce, combined, immix, compound, conflate, merge, aggregate, fuse, blend, mix, commingle
+454 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC: meld, combine, unite, flux, coalesce, combined, immix, compound, conflate, merge, aggregate, fuse, blend, mix, commingle
+455 - COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC: meld, combine, unite, flux, coalesce, combined, immix, compound, conflate, merge, aggregate, fuse, blend, mix, commingle
+456 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC: spinal, spinal anesthesia, spinal anaesthesia
+457 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W CC: spinal, spinal anesthesia, spinal anaesthesia
+458 - SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W/O CC/MCC: spinal, spinal anesthesia, spinal anaesthesia
+459 - SPINAL FUSION EXCEPT CERVICAL W MCC: spinal, spinal anesthesia, spinal anaesthesia
+460 - SPINAL FUSION EXCEPT CERVICAL W/O MCC: spinal, spinal anesthesia, spinal anaesthesia
+461 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W MCC: bilaterally symmetrical, bilaterally symmetric, two-sided, isobilateral, bilateral
+462 - BILATERAL OR MULTIPLE MAJOR JOINT PROCS OF LOWER EXTREMITY W/O MCC: bilaterally symmetrical, bilaterally symmetric, two-sided, isobilateral, bilateral
+463 - WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W MCC: debridement
+464 - WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W CC: debridement
+465 - WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W/O CC/MCC: debridement
+466 - REVISION OF HIP OR KNEE REPLACEMENT W MCC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+467 - REVISION OF HIP OR KNEE REPLACEMENT W CC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+468 - REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+469 - MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREM: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC: roast, articulate, articulatio, spliff, marijuana cigarette, reefer, juncture, joint, articulation, stick, join, junction
+471 - CERVICAL SPINAL FUSION W MCC: spinal, spinal anesthesia, spinal anaesthesia
+472 - CERVICAL SPINAL FUSION W CC: spinal, spinal anesthesia, spinal anaesthesia
+473 - CERVICAL SPINAL FUSION W/O CC/MCC: spinal, spinal anesthesia, spinal anaesthesia
+474 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC: amputation
+475 - AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC: amputation
+477 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC: biopsy
+478 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC: biopsy
+479 - BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC: biopsy
+480 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+481 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+482 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC: pelvic girdle, rose hip, pelvis, articulatio coxae, hep, coxa, hip joint, hip to, rosehip, hip, pelvic arch
+483 - MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES: appendage, member, extremity
+484 - MAJOR JOINT & LIMB REATTACHMENT PROC OF UPPER EXTREMITY W/O CC/MCC: roast, articulate, articulatio, spliff, marijuana cigarette, reefer, juncture, joint, articulation, stick, join, junction
+486 - KNEE PROCEDURES W PDX OF INFECTION W CC: human knee, articulatio genus, knee, stifle, knee joint, genu
+488 - KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC: human knee, articulatio genus, knee, stifle, knee joint, genu
+489 - KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC: human knee, articulatio genus, knee, stifle, knee joint, genu
+490 - BACK & NECK PROC EXC SPINAL FUSION W CC/MCC OR DISC DEVICE/NEUROSTIM: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+491 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+492 - LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W MCC: humerus
+493 - LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W CC: humerus
+494 - LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W/O CC/MCC: humerus
+495 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC: ablation, extirpation, cutting out, excision, cut, deracination, excommunication, deletion
+496 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC: ablation, extirpation, cutting out, excision, cut, deracination, excommunication, deletion
+497 - LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC: ablation, extirpation, cutting out, excision, cut, deracination, excommunication, deletion
+498 - LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC: ablation, extirpation, cutting out, excision, cut, deracination, excommunication, deletion
+500 - SOFT TISSUE PROCEDURES W MCC: tissue paper, tissue, weave
+501 - SOFT TISSUE PROCEDURES W CC: tissue paper, tissue, weave
+502 - SOFT TISSUE PROCEDURES W/O CC/MCC: tissue paper, tissue, weave
+503 - FOOT PROCEDURES W MCC: human foot, groundwork, metrical foot, pes, substructure, foot, fundament, pick, infantry, hoof, hoof it, leg it, foot up, ft, foundation, invertebrate foot, understructure, base, metrical unit, animal foot
+504 - FOOT PROCEDURES W MCC: human foot, groundwork, metrical foot, pes, substructure, foot, fundament, pick, infantry, hoof, hoof it, leg it, foot up, ft, foundation, invertebrate foot, understructure, base, metrical unit, animal foot
+505 - FOOT PROCEDURES W/O CC/MCC: human foot, groundwork, metrical foot, pes, substructure, foot, fundament, pick, infantry, hoof, hoof it, leg it, foot up, ft, foundation, invertebrate foot, understructure, base, metrical unit, animal foot
+510 - SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W MCC: shoulder joint, articulatio humeri, berm, shoulder
+511 - SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W CC: shoulder joint, articulatio humeri, berm, shoulder
+512 - SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W/O CC/MCC: shoulder joint, articulatio humeri, berm, shoulder
+513 - HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC: handwriting, manus, turn over, give, hired hand, hand, bridge player, script, deal, helping hand, mitt, pass, reach, pass on, paw, hired man
+514 - HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC: handwriting, manus, turn over, give, hired hand, hand, bridge player, script, deal, helping hand, mitt, pass, reach, pass on, paw, hired man
+515 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC: musculoskeletal
+516 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC: musculoskeletal
+517 - OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC: musculoskeletal
+518 - BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+519 - BACK & NECK PROC EXC SPINAL FUSION W CC: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+520 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+534 - FRACTURES OF FEMUR W/O MCC: fault, crack, shift, fracture, faulting, cracking, geological fault, break
+535 - FRACTURES OF HIP & PELVIS W MCC: fault, crack, shift, fracture, faulting, cracking, geological fault, break
+536 - FRACTURES OF HIP & PELVIS W/O MCC: fault, crack, shift, fracture, faulting, cracking, geological fault, break
+539 - OSTEOMYELITIS W MCC: osteomyelitis
+540 - OSTEOMYELITIS W CC: osteomyelitis
+542 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC: morbid, pathological, pathologic, diseased
+543 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC: morbid, pathological, pathologic, diseased
+544 - PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC: morbid, pathological, pathologic, diseased
+545 - CONNECTIVE TISSUE DISORDERS W MCC: conjunctive, continuative, conjunction, connection, connecter, connector, connective, connexion
+546 - CONNECTIVE TISSUE DISORDERS W CC: conjunctive, continuative, conjunction, connection, connecter, connector, connective, connexion
+547 - CONNECTIVE TISSUE DISORDERS W/O CC/MCC: conjunctive, continuative, conjunction, connection, connecter, connector, connective, connexion
+551 - MEDICAL BACK PROBLEMS W MCC: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+552 - MEDICAL BACK PROBLEMS W/O MCC: back up, book binding, rachis, backwards, cover, spinal column, hind, game, bet on, back, rearward, plunk for, plump for, hinder, punt, rearwards, dorsum, rear, binding, backbone, backrest, indorse, backward, second, support, gage, endorse, stake, spine, vertebral column
+553 - BONE DISEASES & ARTHROPATHIES W MCC: ivory, pearl, debone, get up, mug up, drum, swot, grind away, off-white, osseous tissue, bone up, os, bone, swot up, cram
+554 - BONE DISEASES & ARTHROPATHIES W/O MCC: ivory, pearl, debone, get up, mug up, drum, swot, grind away, off-white, osseous tissue, bone up, os, bone, swot up, cram
+555 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC: musculoskeletal
+556 - SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC: musculoskeletal
+557 - TENDONITIS, MYOSITIS & BURSITIS W MCC: tendonitis, tendinitis, tenonitis
+558 - TENDONITIS, MYOSITIS & BURSITIS W/O MCC: tendonitis, tendinitis, tenonitis
+559 - AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC: aftercare
+560 - AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC: aftercare
+561 - AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC: aftercare
+562 - FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W MCC: fault, crack, shift, fracture, faulting, cracking, geological fault, break
+563 - FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W/O MCC: fault, crack, shift, fracture, faulting, cracking, geological fault, break
+564 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC: musculoskeletal
+565 - OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC: musculoskeletal
+570 - SKIN DEBRIDEMENT W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+571 - SKIN DEBRIDEMENT W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+572 - SKIN DEBRIDEMENT W/O CC/MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+573 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+574 - SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+577 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+578 - SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+579 - OTHER SKIN, SUBCUT TISS & BREAST PROC W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+580 - OTHER SKIN, SUBCUT TISS & BREAST PROC W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+581 - OTHER SKIN, SUBCUT TISS & BREAST PROC W/O CC/MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+582 - MASTECTOMY FOR MALIGNANCY W CC/MCC: mastectomy
+583 - MASTECTOMY FOR MALIGNANCY W/O CC/MCC: mastectomy
+585 - BREAST BIOPSY, LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC: white meat, bosom, front, knocker, breast, titty, boob, tit, summit, chest
+592 - SKIN ULCERS W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+593 - SKIN ULCERS W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+595 - MAJOR SKIN DISORDERS W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+596 - MAJOR SKIN DISORDERS W/O MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+597 - MALIGNANT BREAST DISORDERS W MCC: malignant
+598 - MALIGNANT BREAST DISORDERS W CC: malignant
+600 - NON-MALIGNANT BREAST DISORDERS W CC/MCC: white meat, bosom, front, knocker, breast, titty, boob, tit, summit, chest
+602 - CELLULITIS W MCC: cellulitis
+603 - CELLULITIS W/O MCC: cellulitis
+604 - TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W MCC: harm, psychic trauma, trauma, injury, hurt
+605 - TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W/O MCC: harm, psychic trauma, trauma, injury, hurt
+606 - MINOR SKIN DISORDERS W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+607 - MINOR SKIN DISORDERS W/O MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+614 - ADRENAL & PITUITARY PROCEDURES W CC/MCC: adrenal, adrenal gland, suprarenal gland
+615 - ADRENAL & PITUITARY PROCEDURES W/O CC/MCC: adrenal, adrenal gland, suprarenal gland
+616 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W MCC: limb, tree branch, branch, arm
+617 - AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W CC: limb, tree branch, branch, arm
+619 - O.R. PROCEDURES FOR OBESITY W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+620 - O.R. PROCEDURES FOR OBESITY W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+621 - O.R. PROCEDURES FOR OBESITY W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+622 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+623 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W CC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+624 - SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W/O CC/MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+625 - THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W MCC: thyroidal, thyroid gland, thyroid
+626 - THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W CC: thyroidal, thyroid gland, thyroid
+627 - THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC: thyroidal, thyroid gland, thyroid
+628 - OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W MCC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+629 - OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W CC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+630 - OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W/O CC/MCC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+637 - DIABETES W MCC: diabetes
+638 - DIABETES W CC: diabetes
+639 - DIABETES W/O CC/MCC: diabetes
+640 - MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+641 - MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+642 - INBORN AND OTHER DISORDERS OF METABOLISM: innate, inbred, connatural, congenital, inborn
+643 - ENDOCRINE DISORDERS W MCC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+644 - ENDOCRINE DISORDERS W CC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+645 - ENDOCRINE DISORDERS W/O CC/MCC: ductless gland, endocrine, endocrine gland, hormone, internal secretion, endocrinal
+652 - KIDNEY TRANSPLANT: kidney
+653 - MAJOR BLADDER PROCEDURES W MCC: vesica, bladder
+654 - MAJOR BLADDER PROCEDURES W CC: vesica, bladder
+655 - MAJOR BLADDER PROCEDURES W/O CC/MCC: vesica, bladder
+656 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC: kidney
+657 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC: kidney
+658 - KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC: kidney
+659 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC: kidney
+660 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC: kidney
+661 - KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC: kidney
+664 - MINOR BLADDER PROCEDURES W/O CC/MCC: vesica, bladder
+666 - PROSTATECTOMY W CC: prostatectomy
+667 - PROSTATECTOMY W/O CC/MCC: prostatectomy
+668 - TRANSURETHRAL PROCEDURES W MCC: member, phallus, penis
+669 - TRANSURETHRAL PROCEDURES W CC: member, phallus, penis
+670 - TRANSURETHRAL PROCEDURES W/O CC/MCC: member, phallus, penis
+672 - URETHRAL PROCEDURES W/O CC/MCC: urethra
+673 - OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC: kidney
+674 - OTHER KIDNEY & URINARY TRACT PROCEDURES W CC: kidney
+675 - OTHER KIDNEY & URINARY TRACT PROCEDURES W/O CC/MCC: kidney
+682 - RENAL FAILURE W MCC: failure, loser, bankruptcy, unsuccessful person, nonstarter
+683 - RENAL FAILURE W CC: failure, loser, bankruptcy, unsuccessful person, nonstarter
+684 - RENAL FAILURE W/O CC/MCC: failure, loser, bankruptcy, unsuccessful person, nonstarter
+685 - ADMIT FOR RENAL DIALYSIS: nephritic, renal
+686 - KIDNEY & URINARY TRACT NEOPLASMS W MCC: kidney
+687 - KIDNEY & URINARY TRACT NEOPLASMS W CC: kidney
+689 - KIDNEY & URINARY TRACT INFECTIONS W MCC: kidney
+690 - KIDNEY & URINARY TRACT INFECTIONS W/O MCC: kidney
+691 - URINARY STONES W ESW LITHOTRIPSY W CC/MCC: urinary
+693 - URINARY STONES W/O ESW LITHOTRIPSY W MCC: urinary
+694 - URINARY STONES W/O ESW LITHOTRIPSY W/O MCC: urinary
+696 - KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC: kidney
+698 - OTHER KIDNEY & URINARY TRACT DIAGNOSIS W MCC: kidney
+699 - OTHER KIDNEY & URINARY TRACT DIAGNOSIS W CC: kidney
+700 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC: kidney
+707 - MAJOR MALE PELVIC PROCEDURES W CC/MCC: pelvic
+708 - MAJOR MALE PELVIC PROCEDURES W/O CC/MCC: pelvic
+713 - TRANSURETHRAL PROSTATECTOMY W CC/MCC: prostatic, prostate gland, prostate
+714 - TRANSURETHRAL PROSTATECTOMY W/O CC/MCC: prostatic, prostate gland, prostate
+716 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W/O CC/MCC: reproductive, generative, procreative
+717 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC: reproductive, generative, procreative
+718 - OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W/O CC/MCC: reproductive, generative, procreative
+726 - BENIGN PROSTATIC HYPERTROPHY W/O MCC: benignant, benign
+727 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC: fervour, ignition, fervor, firing, kindling, excitement, inflammation, inflaming, excitation, redness, rubor, lighting
+728 - INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC: fervour, ignition, fervor, firing, kindling, excitement, inflammation, inflaming, excitation, redness, rubor, lighting
+734 - PELVIC EVISCERATION, RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC: pelvic
+735 - PELVIC EVISCERATION, RAD HYSTERECTOMY & RAD VULVECTOMY W/O CC/MCC: pelvic
+736 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC: uterine
+737 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC: uterine
+738 - UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W/O CC/MCC: uterine
+740 - UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC: uterine
+741 - UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC: uterine
+742 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC: uterine
+743 - UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC: uterine
+744 - D&C, CONIZATION, LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC: laparoscopy
+746 - VAGINA, CERVIX & VULVA PROCEDURES W CC/MCC: vagina
+747 - VAGINA, CERVIX & VULVA PROCEDURES W/O CC/MCC: vagina
+748 - FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES: reproductive, generative, procreative
+749 - OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC: reproductive, generative, procreative
+754 - MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W MCC: malignance, malignity, malignancy
+755 - MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W CC: malignance, malignity, malignancy
+757 - INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W MCC: contagion, infection, transmission
+758 - INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W CC: contagion, infection, transmission
+760 - MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC: catamenial, menstrual
+765 - CESAREAN SECTION W CC/MCC: caesarean section, cesarean, caesarean delivery, caesarian section, caesarean, cesarian section, cesarean section, cesarian, abdominal delivery, C-section, cesarean delivery, caesarian delivery, caesarian
+766 - CESAREAN SECTION W/O CC/MCC: caesarean section, cesarean, caesarean delivery, caesarian section, caesarean, cesarian section, cesarean section, cesarian, abdominal delivery, C-section, cesarean delivery, caesarian delivery, caesarian
+774 - VAGINAL DELIVERY W COMPLICATING DIAGNOSES: legal transfer, delivery, deliverance, manner of speaking, bringing, speech, rescue, saving, pitch, obstetrical delivery, livery
+775 - VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES: legal transfer, delivery, deliverance, manner of speaking, bringing, speech, rescue, saving, pitch, obstetrical delivery, livery
+781 - OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS: antepartum, antenatal, prenatal
+808 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+809 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+810 - MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+811 - RED BLOOD CELL DISORDERS W MCC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+812 - RED BLOOD CELL DISORDERS W/O MCC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+813 - COAGULATION DISORDERS: coagulation, curdling, clotting
+814 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC: scavenger cell, phagocyte
+815 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC: scavenger cell, phagocyte
+816 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC: scavenger cell, phagocyte
+820 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+821 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC: leucaemia, cancer of the blood, leukemia, leukaemia
+822 - LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC: leucaemia, cancer of the blood, leukemia, leukaemia
+823 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+824 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER O.R. PROC W CC: leucaemia, cancer of the blood, leukemia, leukaemia
+825 - LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER O.R. PROC W/O CC/MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+826 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+827 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+828 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+829 - MYELOPROLIF DISORD OR POORLY DIFF NEOPL W OTHER O.R. PROC W CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+834 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+835 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC: leucaemia, cancer of the blood, leukemia, leukaemia
+836 - ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W/O CC/MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+837 - CHEMO W ACUTE LEUKEMIA AS SDX OR W HIGH DOSE CHEMO AGENT W MCC: chemotherapy
+838 - CHEMO W ACUTE LEUKEMIA AS SDX W CC OR HIGH DOSE CHEMO AGENT: chemotherapy
+839 - CHEMO W ACUTE LEUKEMIA AS SDX W/O CC/MCC: chemotherapy
+840 - LYMPHOMA & NON-ACUTE LEUKEMIA W MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+841 - LYMPHOMA & NON-ACUTE LEUKEMIA W CC: leucaemia, cancer of the blood, leukemia, leukaemia
+842 - LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC: leucaemia, cancer of the blood, leukemia, leukaemia
+843 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+844 - OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC: ancestry, stock, rip, roue, descent, line of descent, line, profligate, blood, origin, parentage, lineage, bloodline, blood line, stemma, rake, pedigree, rakehell
+846 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC: chemotherapy
+847 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC: chemotherapy
+848 - CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W/O CC/MCC: chemotherapy
+849 - RADIOTHERAPY: radiotherapy, radiation therapy, irradiation, actinotherapy, radiation
+853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC: infectious, infective
+854 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC: infectious, infective
+856 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC: postoperative
+857 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC: postoperative
+858 - POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC: postoperative
+862 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC: postoperative
+863 - POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC: postoperative
+864 - FEVER: febricity, feverishness, pyrexia, fever, febrility
+865 - VIRAL ILLNESS W MCC: malady, unwellness, sickness, illness
+866 - VIRAL ILLNESS W/O MCC: malady, unwellness, sickness, illness
+867 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC: infectious, infective
+868 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC: infectious, infective
+869 - OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC: infectious, infective
+870 - SEPTICEMIA OR SEVERE SEPSIS W MV 96+ HOURS: septicemia, blood poisoning, septicaemia
+871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV 96+ HOURS W MCC: septicemia, blood poisoning, septicaemia
+872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV 96+ HOURS W/O MCC: septicemia, blood poisoning, septicaemia
+876 - O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+880 - ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION: psycho, psychotic, psychotic person
+881 - DEPRESSIVE NEUROSES: depressive
+882 - NEUROSES EXCEPT DEPRESSIVE: neuroticism, psychoneurosis, neurosis
+883 - DISORDERS OF PERSONALITY & IMPULSE CONTROL: trouble, disquiet, unhinge, distract, cark, upset, disorderliness, disorder, disarray, perturb
+884 - ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY: constitutive, organic fertilizer, constitutional, organic, organic fertiliser, constituent
+885 - PSYCHOSES: psychosis
+886 - BEHAVIORAL & DEVELOPMENTAL DISORDERS: behavioral, behavioural
+894 - ALCOHOL/DRUG ABUSE OR DEPENDENCE: alcoholic drink, alcoholic beverage, alcohol, intoxicant, inebriant
+895 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W REHABILITATION THERAPY: alcoholic drink, alcoholic beverage, alcohol, intoxicant, inebriant
+896 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC: alcoholic drink, alcoholic beverage, alcohol, intoxicant, inebriant
+897 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC: alcoholic drink, alcoholic beverage, alcohol, intoxicant, inebriant
+901 - WOUND DEBRIDEMENTS FOR INJURIES W MCC: debridement
+902 - WOUND DEBRIDEMENTS FOR INJURIES W CC: debridement
+904 - SKIN GRAFTS FOR INJURIES W CC/MCC: cutis, tegument, sputter, scrape, struggle, shin, pelt, pare, skin, bark, shinny, peel, scramble, clamber, hide
+906 - HAND PROCEDURES FOR INJURIES: handwriting, manus, turn over, give, hired hand, hand, bridge player, script, deal, helping hand, mitt, pass, reach, pass on, paw, hired man
+907 - OTHER O.R. PROCEDURES FOR INJURIES W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+908 - OTHER O.R. PROCEDURES FOR INJURIES W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+909 - OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+914 - TRAUMATIC INJURY W/O MCC: traumatic
+915 - ALLERGIC REACTIONS W MCC: supersensitive, hypersensitized, hypersensitised, hypersensitive, supersensitized, sensitized, allergic, sensitised, supersensitised
+916 - ALLERGIC REACTIONS W/O MCC: supersensitive, hypersensitized, hypersensitised, hypersensitive, supersensitized, sensitized, allergic, sensitised, supersensitised
+917 - POISONING & TOXIC EFFECTS OF DRUGS W MCC: toxic condition, envenom, poisoning, poison, intoxication
+918 - POISONING & TOXIC EFFECTS OF DRUGS W/O MCC: toxic condition, envenom, poisoning, poison, intoxication
+919 - COMPLICATIONS OF TREATMENT W MCC: complication, complicatedness, knottiness, tortuousness, ramification
+920 - COMPLICATIONS OF TREATMENT W CC: complication, complicatedness, knottiness, tortuousness, ramification
+921 - COMPLICATIONS OF TREATMENT W/O CC/MCC: complication, complicatedness, knottiness, tortuousness, ramification
+923 - OTHER INJURY, POISONING & TOXIC EFFECT DIAG W/O MCC: harm, trauma, injury, hurt, accidental injury, wound, combat injury
+927 - EXTENSIVE BURNS OR FULL THICKNESS BURNS W MV >96 HRS W SKIN GRAFT: burn off, burn mark, Nathan Birnbaum, cauterize, cauterise, incinerate, burning, burn up, burn down, George Burns, suntan, sting, tan, glow, Robert Burns, fire, cut, sunburn, combust, bite, Burns, burn
+928 - FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W CC/MCC: burn down, suntan, combust, sting, burn mark, burn off, tan, bite, fire, cauterize, cauterise, cut, incinerate, sunburn, glow, burning, burn up, burn
+929 - FULL THICKNESS BURN W SKIN GRAFT OR INHAL INJ W/O CC/MCC: burn down, suntan, combust, sting, burn mark, burn off, tan, bite, fire, cauterize, cauterise, cut, incinerate, sunburn, glow, burning, burn up, burn
+934 - FULL THICKNESS BURN W/O SKIN GRFT OR INHAL INJ: burn down, suntan, combust, sting, burn mark, burn off, tan, bite, fire, cauterize, cauterise, cut, incinerate, sunburn, glow, burning, burn up, burn
+935 - NON-EXTENSIVE BURNS: burn off, burn mark, Nathan Birnbaum, cauterize, cauterise, incinerate, burning, burn up, burn down, George Burns, suntan, sting, tan, glow, Robert Burns, fire, cut, sunburn, combust, bite, Burns, burn
+939 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+940 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+941 - O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+945 - REHABILITATION W CC/MCC: reclamation, renewal, rehabilitation
+946 - REHABILITATION W/O CC/MCC: reclamation, renewal, rehabilitation
+947 - SIGNS & SYMPTOMS W MCC: symptom
+948 - SIGNS & SYMPTOMS W/O MCC: symptom
+949 - AFTERCARE W CC/MCC: aftercare
+950 - AFTERCARE W/O CC/MCC: aftercare
+951 - OTHER FACTORS INFLUENCING HEALTH STATUS: wellness, health
+956 - LIMB REATTACHMENT, HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA: limb, tree branch, branch, arm
+957 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+958 - OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+963 - OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC: harm, psychic trauma, trauma, injury, hurt
+964 - OTHER MULTIPLE SIGNIFICANT TRAUMA W CC: harm, psychic trauma, trauma, injury, hurt
+969 - HIV W EXTENSIVE O.R. PROCEDURE W MCC: HIV, human immunodeficiency virus
+974 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+975 - HIV W MAJOR RELATED CONDITION W CC: HIV, human immunodeficiency virus
+976 - HIV W MAJOR RELATED CONDITION W/O CC/MCC: HIV, human immunodeficiency virus
+977 - HIV W OR W/O OTHER RELATED CONDITION: HIV, human immunodeficiency virus
+981 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+982 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+983 - EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+987 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+988 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
+989 - NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC: mental process, process, mathematical process, cognitive operation, procedure, surgical procedure, surgical operation, military operation, cognitive process, mathematical operation, surgery, performance, surgical process, functioning, operation
